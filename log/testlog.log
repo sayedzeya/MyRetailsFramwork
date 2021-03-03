@@ -1,0 +1,457 @@
+2021-02-07 20:21:18,214 - logger_File -INFO - Scenario Search functionality test case Started 
+2021-02-07 20:21:24,319 - logger_File -INFO - Retail page is opened
+2021-02-07 20:21:24,338 - logger_File -INFO - Page title  is verified
+2021-02-07 20:21:25,026 - logger_File -INFO - User entered value in serach bar
+2021-02-07 20:21:26,104 - logger_File -INFO - User clicked on serach button
+2021-02-07 20:21:26,643 - logger_File -INFO - iPhone image is displayed
+2021-02-07 20:21:27,503 - logger_File -INFO - Search functionality test case   passed
+2021-02-07 20:22:15,053 - logger_File -INFO - Scenario Search functionality test case Started 
+2021-02-07 20:22:21,215 - logger_File -INFO - Retail page is opened
+2021-02-07 20:22:21,314 - logger_File -INFO - Page title  is verified
+2021-02-07 20:22:21,922 - logger_File -INFO - User entered value in serach bar
+2021-02-07 20:22:23,260 - logger_File -INFO - User clicked on serach button
+2021-02-07 20:22:23,689 - logger_File -INFO - iPhone image is displayed
+2021-02-07 20:22:24,534 - logger_File -INFO - Search functionality test case   passed
+2021-02-15 18:35:18,595 - logger_File -INFO - Scenario Search functionality test case Started 
+2021-02-15 18:35:33,422 - logger_File -INFO - Retail page is opened
+2021-02-15 18:35:33,448 - logger_File -INFO - Page title  is verified
+2021-02-15 18:35:34,238 - logger_File -INFO - User entered value in serach bar
+2021-02-15 18:35:35,462 - logger_File -INFO - User clicked on serach button
+2021-02-15 18:35:36,470 - logger_File -INFO - Search functionality test case   undefined
+2021-02-15 18:40:31,247 - logger_File -INFO - Scenario Search functionality test case Started 
+2021-02-15 18:40:38,261 - logger_File -INFO - Retail page is opened
+2021-02-15 18:40:38,285 - logger_File -INFO - Page title  is verified
+2021-02-15 18:40:38,958 - logger_File -INFO - User entered value in serach bar
+2021-02-15 18:40:40,089 - logger_File -INFO - User clicked on serach button
+2021-02-15 18:40:41,082 - logger_File -INFO - Search functionality test case   undefined
+2021-02-15 18:45:11,404 - logger_File -INFO - Scenario Search functionality test case Started 
+2021-02-15 18:45:18,161 - logger_File -INFO - Retail page is opened
+2021-02-15 18:45:18,187 - logger_File -INFO - Page title  is verified
+2021-02-15 18:45:19,082 - logger_File -INFO - User entered value in serach bar
+2021-02-15 18:45:20,054 - logger_File -INFO - User clicked on serach button
+2021-02-15 18:45:20,618 - logger_File -INFO - iPhone image is displayed
+2021-02-15 18:45:21,547 - logger_File -INFO - Search functionality test case   passed
+2021-02-15 18:57:23,411 - logger_File -INFO - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-15 18:57:29,789 - logger_File -INFO - Retail page is opened
+2021-02-15 18:57:29,824 - logger_File -INFO - Page title  is verified
+2021-02-15 18:57:30,485 - logger_File -INFO - User entered value in serach bar
+2021-02-15 18:57:31,542 - logger_File -INFO - User clicked on serach button
+2021-02-15 18:57:32,513 - logger_File -INFO - Test Search functionality with multiple set of Data   passed
+2021-02-15 18:57:32,519 - logger_File -INFO - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-15 18:57:38,674 - logger_File -INFO - Retail page is opened
+2021-02-15 18:57:38,689 - logger_File -INFO - Page title  is verified
+2021-02-15 18:57:39,299 - logger_File -INFO - User entered value in serach bar
+2021-02-15 18:57:40,802 - logger_File -INFO - User clicked on serach button
+2021-02-15 18:57:41,692 - logger_File -INFO - Test Search functionality with multiple set of Data   passed
+2021-02-15 18:57:41,696 - logger_File -INFO - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-15 18:57:47,645 - logger_File -INFO - Retail page is opened
+2021-02-15 18:57:47,668 - logger_File -INFO - Page title  is verified
+2021-02-15 18:57:48,303 - logger_File -INFO - User entered value in serach bar
+2021-02-15 18:57:49,454 - logger_File -INFO - User clicked on serach button
+2021-02-15 18:57:50,352 - logger_File -INFO - Test Search functionality with multiple set of Data   passed
+2021-02-16 04:41:41,817 - logger_File -INFO - Scenario Search functionality test case Started 
+2021-02-16 04:41:48,544 - logger_File -INFO - Retail page is opened
+2021-02-16 04:41:48,557 - logger_File -INFO - Page title  is verified
+2021-02-16 04:41:49,284 - logger_File -INFO - User entered value in serach bar
+2021-02-16 04:41:50,394 - logger_File -INFO - User clicked on serach button
+2021-02-16 04:41:50,860 - logger_File -INFO - iPhone image is displayed
+2021-02-16 04:41:51,715 - logger_File -INFO - Search functionality test case   passed
+2021-02-16 04:41:51,722 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-16 04:41:57,425 - logger_File -INFO - Retail page is opened
+2021-02-16 04:41:57,441 - logger_File -INFO - Page title  is verified
+2021-02-16 04:41:57,996 - logger_File -INFO - User entered value in serach bar
+2021-02-16 04:41:58,919 - logger_File -INFO - User clicked on serach button
+2021-02-16 04:41:59,855 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-16 04:41:59,860 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-16 04:42:04,938 - logger_File -INFO - Retail page is opened
+2021-02-16 04:42:04,952 - logger_File -INFO - Page title  is verified
+2021-02-16 04:42:05,548 - logger_File -INFO - User entered value in serach bar
+2021-02-16 04:42:06,685 - logger_File -INFO - User clicked on serach button
+2021-02-16 04:42:07,630 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-16 04:42:07,638 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-16 04:42:12,979 - logger_File -INFO - Retail page is opened
+2021-02-16 04:42:12,988 - logger_File -INFO - Page title  is verified
+2021-02-16 04:42:13,780 - logger_File -INFO - User entered value in serach bar
+2021-02-16 04:42:14,786 - logger_File -INFO - User clicked on serach button
+2021-02-16 04:42:15,660 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-16 11:36:51,719 - logger_File -INFO - Scenario Search functionality test case Started 
+2021-02-16 11:37:00,781 - logger_File -INFO - Retail page is opened
+2021-02-16 11:37:00,795 - logger_File -INFO - Page title  is verified
+2021-02-16 11:37:02,308 - logger_File -INFO - User entered value in serach bar
+2021-02-16 11:37:03,447 - logger_File -INFO - User clicked on serach button
+2021-02-16 11:37:03,926 - logger_File -INFO - iPhone image is displayed
+2021-02-16 11:37:04,843 - logger_File -INFO - Search functionality test case   passed
+2021-02-16 11:37:04,931 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-16 11:37:10,953 - logger_File -INFO - Retail page is opened
+2021-02-16 11:37:10,962 - logger_File -INFO - Page title  is verified
+2021-02-16 11:37:11,958 - logger_File -INFO - User entered value in serach bar
+2021-02-16 11:37:12,986 - logger_File -INFO - User clicked on serach button
+2021-02-16 11:37:13,870 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-16 11:37:13,881 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-16 11:37:19,703 - logger_File -INFO - Retail page is opened
+2021-02-16 11:37:19,713 - logger_File -INFO - Page title  is verified
+2021-02-16 11:37:20,592 - logger_File -INFO - User entered value in serach bar
+2021-02-16 11:37:21,627 - logger_File -INFO - User clicked on serach button
+2021-02-16 11:37:22,511 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-16 11:37:22,519 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-16 11:37:27,941 - logger_File -INFO - Retail page is opened
+2021-02-16 11:37:27,951 - logger_File -INFO - Page title  is verified
+2021-02-16 11:37:28,502 - logger_File -INFO - User entered value in serach bar
+2021-02-16 11:37:29,503 - logger_File -INFO - User clicked on serach button
+2021-02-16 11:37:30,407 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-17 12:26:38,080 - logger_File -INFO - Scenario Validate Macbook por image is displayed Started 
+2021-02-17 12:26:46,844 - logger_File -INFO - Validate Macbook por image is displayed   undefined
+2021-02-17 12:56:55,405 - logger_File -INFO - Scenario Validate Macbook por image is displayed Started 
+2021-02-17 12:56:59,758 - logger_File -INFO - User is on the ratial WebPage
+2021-02-17 12:57:46,585 - logger_File -INFO - Validate Macbook por image is displayed   failed
+2021-02-17 13:07:57,477 - logger_File -INFO - Scenario Validate Macbook por image is displayed Started 
+2021-02-17 13:08:02,082 - logger_File -INFO - User is on the ratial WebPage
+2021-02-17 13:08:49,218 - logger_File -INFO - Validate Macbook por image is displayed   failed
+2021-02-17 13:09:57,996 - logger_File -INFO - Scenario Validate Macbook por image is displayed Started 
+2021-02-17 13:10:03,524 - logger_File -INFO - Validate Macbook por image is displayed   undefined
+2021-02-19 21:12:59,295 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-19 21:13:08,035 - logger_File -INFO - Retail page is opened
+2021-02-19 21:13:08,049 - logger_File -INFO - Page title  is verified
+2021-02-19 21:13:09,609 - logger_File -INFO - Register an Account test case   undefined
+2021-02-19 22:04:51,164 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-19 22:05:10,168 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 16:04:44,852 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 16:04:50,855 - logger_File -INFO - Retail page is opened
+2021-02-20 16:04:50,884 - logger_File -INFO - Page title  is verified
+2021-02-20 16:04:52,721 - logger_File -INFO - User clicked on Register option
+2021-02-20 16:04:53,872 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 16:07:09,861 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 16:07:15,545 - logger_File -INFO - Retail page is opened
+2021-02-20 16:07:15,563 - logger_File -INFO - Page title  is verified
+2021-02-20 16:07:17,084 - logger_File -INFO - User clicked on Register option
+2021-02-20 16:07:18,730 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 19:14:02,385 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 19:14:09,083 - logger_File -INFO - Retail page is opened
+2021-02-20 19:14:09,451 - logger_File -INFO - Page title  is verified
+2021-02-20 19:14:10,990 - logger_File -INFO - User clicked on Register option
+2021-02-20 19:14:12,485 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 19:43:01,026 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 19:43:09,587 - logger_File -INFO - Retail page is opened
+2021-02-20 19:43:09,602 - logger_File -INFO - Page title  is verified
+2021-02-20 19:43:11,094 - logger_File -INFO - User clicked on Register option
+2021-02-20 19:43:12,624 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 20:05:03,301 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 20:05:09,330 - logger_File -INFO - Retail page is opened
+2021-02-20 20:05:09,342 - logger_File -INFO - Page title  is verified
+2021-02-20 20:05:10,687 - logger_File -INFO - User clicked on Register option
+2021-02-20 20:05:12,132 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 20:06:31,004 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 20:06:38,555 - logger_File -INFO - Retail page is opened
+2021-02-20 20:06:38,572 - logger_File -INFO - Page title  is verified
+2021-02-20 20:06:39,894 - logger_File -INFO - User clicked on Register option
+2021-02-20 20:06:41,352 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 20:08:38,700 - logger_File -INFO - Scenario Search functionality test case Started 
+2021-02-20 20:08:44,510 - logger_File -INFO - Retail page is opened
+2021-02-20 20:08:44,537 - logger_File -INFO - Page title  is verified
+2021-02-20 20:08:45,477 - logger_File -INFO - User entered value in serach bar
+2021-02-20 20:08:46,626 - logger_File -INFO - User clicked on serach button
+2021-02-20 20:08:47,296 - logger_File -INFO - iPhone image is displayed
+2021-02-20 20:08:48,182 - logger_File -INFO - Search functionality test case   passed
+2021-02-20 20:08:48,187 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 20:08:54,398 - logger_File -INFO - Retail page is opened
+2021-02-20 20:08:54,422 - logger_File -INFO - Page title  is verified
+2021-02-20 20:08:55,853 - logger_File -INFO - User clicked on Register option
+2021-02-20 20:08:57,297 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 20:29:37,706 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 20:29:46,344 - logger_File -INFO - Retail page is opened
+2021-02-20 20:29:46,359 - logger_File -INFO - Page title  is verified
+2021-02-20 20:29:47,454 - logger_File -INFO - User clicked on Register option
+2021-02-20 20:29:49,036 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 20:30:54,882 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 20:31:02,275 - logger_File -INFO - Retail page is opened
+2021-02-20 20:31:02,290 - logger_File -INFO - Page title  is verified
+2021-02-20 20:31:03,546 - logger_File -INFO - User clicked on Register option
+2021-02-20 20:31:05,012 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 20:49:10,720 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 20:49:17,186 - logger_File -INFO - Retail page is opened
+2021-02-20 20:49:17,202 - logger_File -INFO - Page title  is verified
+2021-02-20 20:49:18,122 - logger_File -INFO - User click on My Account
+2021-02-20 20:49:19,373 - logger_File -INFO - User clicked on Register option
+2021-02-20 20:49:20,940 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 20:56:09,621 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 20:56:16,895 - logger_File -INFO - Retail page is opened
+2021-02-20 20:56:16,912 - logger_File -INFO - Page title  is verified
+2021-02-20 20:56:17,574 - logger_File -INFO - User click on My Account
+2021-02-20 20:56:18,358 - logger_File -INFO - User clicked on Register option
+2021-02-20 20:56:19,840 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 20:58:05,963 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 20:58:11,159 - logger_File -INFO - Retail page is opened
+2021-02-20 20:58:11,171 - logger_File -INFO - Page title  is verified
+2021-02-20 20:58:12,058 - logger_File -INFO - User click on My Account
+2021-02-20 20:58:12,694 - logger_File -INFO - User clicked on Register option
+2021-02-20 20:58:14,128 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 21:14:16,674 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 21:14:24,048 - logger_File -INFO - Retail page is opened
+2021-02-20 21:14:24,104 - logger_File -INFO - Page title  is verified
+2021-02-20 21:14:24,843 - logger_File -INFO - User click on My Account
+2021-02-20 21:14:25,509 - logger_File -INFO - User clicked on Register option
+2021-02-20 21:14:26,956 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 21:26:16,454 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-02-20 21:26:22,589 - logger_File -INFO - Retail page is opened
+2021-02-20 21:26:22,602 - logger_File -INFO - Page title  is verified
+2021-02-20 21:26:23,167 - logger_File -INFO - User click on My Account
+2021-02-20 21:26:23,526 - logger_File -INFO - User click on Login
+2021-02-20 21:26:27,094 - logger_File -INFO - User enter email address
+2021-02-20 21:26:27,219 - logger_File -INFO - User enter password
+2021-02-20 21:26:28,103 - logger_File -INFO - User click on Login button
+2021-02-20 21:26:32,400 - logger_File -INFO - Login to MyAccount   passed
+2021-02-20 21:26:32,406 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 21:26:37,190 - logger_File -INFO - Retail page is opened
+2021-02-20 21:26:37,209 - logger_File -INFO - Page title  is verified
+2021-02-20 21:26:38,651 - logger_File -INFO - User clicked on Register option
+2021-02-20 21:26:41,595 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 21:29:36,473 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 21:29:43,809 - logger_File -INFO - Retail page is opened
+2021-02-20 21:29:43,830 - logger_File -INFO - Page title  is verified
+2021-02-20 21:29:45,140 - logger_File -INFO - User clicked on Register option
+2021-02-20 21:29:46,510 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 21:33:27,827 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 21:33:34,615 - logger_File -INFO - Retail page is opened
+2021-02-20 21:33:34,633 - logger_File -INFO - Page title  is verified
+2021-02-20 21:33:35,747 - logger_File -INFO - User clicked on Register option
+2021-02-20 21:33:37,206 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 21:44:23,848 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 21:44:30,713 - logger_File -INFO - Retail page is opened
+2021-02-20 21:44:30,739 - logger_File -INFO - Page title  is verified
+2021-02-20 21:44:32,361 - logger_File -INFO - User clicked on Register option
+2021-02-20 21:44:33,978 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 21:53:10,956 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 21:53:17,376 - logger_File -INFO - Retail page is opened
+2021-02-20 21:53:17,390 - logger_File -INFO - Page title  is verified
+2021-02-20 21:53:18,851 - logger_File -INFO - User clicked on Register option
+2021-02-20 21:53:20,448 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 21:59:05,602 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 21:59:11,308 - logger_File -INFO - Retail page is opened
+2021-02-20 21:59:11,330 - logger_File -INFO - Page title  is verified
+2021-02-20 21:59:12,706 - logger_File -INFO - User clicked on Register option
+2021-02-20 21:59:15,959 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 22:08:53,431 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 22:09:00,302 - logger_File -INFO - Retail page is opened
+2021-02-20 22:09:00,318 - logger_File -INFO - Page title  is verified
+2021-02-20 22:09:01,433 - logger_File -INFO - User clicked on Register option
+2021-02-20 22:09:03,005 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 22:10:35,094 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 22:10:41,583 - logger_File -INFO - Retail page is opened
+2021-02-20 22:10:41,608 - logger_File -INFO - Page title  is verified
+2021-02-20 22:10:43,126 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 22:20:00,876 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 22:20:07,891 - logger_File -INFO - Retail page is opened
+2021-02-20 22:20:07,905 - logger_File -INFO - Page title  is verified
+2021-02-20 22:20:09,090 - logger_File -INFO - User clicked on Register option
+2021-02-20 22:20:12,230 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 22:23:04,180 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 22:23:12,017 - logger_File -INFO - Retail page is opened
+2021-02-20 22:23:12,039 - logger_File -INFO - Page title  is verified
+2021-02-20 22:23:13,134 - logger_File -INFO - User clicked on Register option
+2021-02-20 22:23:14,727 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 22:23:14,735 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 22:23:19,126 - logger_File -INFO - Retail page is opened
+2021-02-20 22:23:19,136 - logger_File -INFO - Page title  is verified
+2021-02-20 22:23:20,521 - logger_File -INFO - User clicked on Register option
+2021-02-20 22:23:21,971 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 22:26:36,635 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 22:26:43,108 - logger_File -INFO - Retail page is opened
+2021-02-20 22:26:43,128 - logger_File -INFO - Page title  is verified
+2021-02-20 22:26:44,959 - logger_File -INFO - User clicked on Register option
+2021-02-20 22:26:46,618 - logger_File -INFO - Register an Account test case   failed
+2021-02-20 22:26:46,626 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-20 22:26:53,129 - logger_File -INFO - Retail page is opened
+2021-02-20 22:26:53,146 - logger_File -INFO - Page title  is verified
+2021-02-20 22:26:54,627 - logger_File -INFO - User clicked on Register option
+2021-02-20 22:26:57,017 - logger_File -INFO - Register an Account test case   failed
+2021-02-21 14:27:58,761 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 14:28:05,386 - logger_File -INFO - Retail page is opened
+2021-02-21 14:28:05,398 - logger_File -INFO - Page title  is verified
+2021-02-21 14:28:06,836 - logger_File -INFO - User clicked on Register option
+2021-02-21 14:28:08,501 - logger_File -INFO - Register an Account test case   failed
+2021-02-21 15:05:31,540 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 15:05:38,717 - logger_File -INFO - Retail page is opened
+2021-02-21 15:05:38,733 - logger_File -INFO - Page title  is verified
+2021-02-21 15:05:40,320 - logger_File -INFO - User clicked on Register option
+2021-02-21 15:06:27,002 - logger_File -INFO - Register an Account test case   failed
+2021-02-21 15:09:36,585 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 15:09:44,341 - logger_File -INFO - Retail page is opened
+2021-02-21 15:09:44,355 - logger_File -INFO - Page title  is verified
+2021-02-21 15:09:45,702 - logger_File -INFO - User clicked on Register option
+2021-02-21 15:10:32,452 - logger_File -INFO - Register an Account test case   failed
+2021-02-21 15:12:30,672 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 15:12:36,252 - logger_File -INFO - Retail page is opened
+2021-02-21 15:12:36,269 - logger_File -INFO - Page title  is verified
+2021-02-21 15:12:37,729 - logger_File -INFO - User clicked on Register option
+2021-02-21 15:12:38,655 - logger_File -INFO - Register an Account test case   undefined
+2021-02-21 15:13:24,197 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 15:13:29,741 - logger_File -INFO - Retail page is opened
+2021-02-21 15:13:29,764 - logger_File -INFO - Page title  is verified
+2021-02-21 15:13:31,206 - logger_File -INFO - User clicked on Register option
+2021-02-21 15:14:17,835 - logger_File -INFO - Register an Account test case   failed
+2021-02-21 15:15:02,697 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 15:15:08,145 - logger_File -INFO - Retail page is opened
+2021-02-21 15:15:08,159 - logger_File -INFO - Page title  is verified
+2021-02-21 15:15:09,330 - logger_File -INFO - User clicked on Register option
+2021-02-21 15:15:59,811 - logger_File -INFO - Register an Account test case   failed
+2021-02-21 15:17:50,467 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 15:17:56,662 - logger_File -INFO - Retail page is opened
+2021-02-21 15:17:56,672 - logger_File -INFO - Page title  is verified
+2021-02-21 15:17:57,747 - logger_File -INFO - User clicked on Register option
+2021-02-21 15:23:25,036 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 15:23:31,453 - logger_File -INFO - Retail page is opened
+2021-02-21 15:23:31,474 - logger_File -INFO - Page title  is verified
+2021-02-21 15:23:33,459 - logger_File -INFO - User clicked on Register option
+2021-02-21 15:24:20,218 - logger_File -INFO - Register an Account test case   failed
+2021-02-21 15:25:40,441 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 15:25:46,014 - logger_File -INFO - Retail page is opened
+2021-02-21 15:25:46,041 - logger_File -INFO - Page title  is verified
+2021-02-21 15:25:47,285 - logger_File -INFO - User clicked on Register option
+2021-02-21 15:25:59,222 - logger_File -INFO - Register an Account test case   failed
+2021-02-21 15:27:39,825 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 15:27:45,595 - logger_File -INFO - Retail page is opened
+2021-02-21 15:27:45,618 - logger_File -INFO - Page title  is verified
+2021-02-21 15:27:46,870 - logger_File -INFO - User clicked on Register option
+2021-02-21 15:27:47,740 - logger_File -INFO - Register an Account test case   undefined
+2021-02-21 15:28:44,485 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 15:28:50,224 - logger_File -INFO - Retail page is opened
+2021-02-21 15:28:50,243 - logger_File -INFO - Page title  is verified
+2021-02-21 15:28:51,384 - logger_File -INFO - User clicked on Register option
+2021-02-21 15:28:55,879 - logger_File -INFO - User filled the information form
+2021-02-22 11:44:05,202 - logger_File -INFO - Scenario Search functionality test case Started 
+2021-02-22 11:44:15,948 - logger_File -INFO - Retail page is opened
+2021-02-22 11:44:15,960 - logger_File -INFO - Page title  is verified
+2021-02-22 11:44:16,981 - logger_File -INFO - User entered value in serach bar
+2021-02-22 11:44:18,343 - logger_File -INFO - User clicked on serach button
+2021-02-22 11:44:19,116 - logger_File -INFO - iPhone image is displayed
+2021-02-22 11:44:20,338 - logger_File -INFO - Search functionality test case   passed
+2021-02-22 11:51:04,663 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-22 11:51:19,787 - logger_File -INFO - Retail page is opened
+2021-02-22 11:51:19,798 - logger_File -INFO - Page title  is verified
+2021-02-22 11:51:20,582 - logger_File -INFO - User Enter the Macbook Pro on the search bar
+2021-02-22 11:51:21,967 - logger_File -INFO - User clicked on serach button
+2021-02-22 11:51:22,840 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-22 11:51:22,847 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-22 11:51:27,649 - logger_File -INFO - Retail page is opened
+2021-02-22 11:51:27,664 - logger_File -INFO - Page title  is verified
+2021-02-22 11:51:28,442 - logger_File -INFO - User Enter the Macbook Pro on the search bar
+2021-02-22 11:51:29,457 - logger_File -INFO - User clicked on serach button
+2021-02-22 11:51:30,320 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-22 11:51:30,325 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-22 11:51:35,400 - logger_File -INFO - Retail page is opened
+2021-02-22 11:51:35,412 - logger_File -INFO - Page title  is verified
+2021-02-22 11:51:36,162 - logger_File -INFO - User Enter the Macbook Pro on the search bar
+2021-02-22 11:51:37,221 - logger_File -INFO - User clicked on serach button
+2021-02-22 11:51:38,152 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-22 11:55:07,232 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-22 11:55:13,385 - logger_File -INFO - Retail page is opened
+2021-02-22 11:55:13,397 - logger_File -INFO - Page title  is verified
+2021-02-22 11:55:15,028 - logger_File -INFO - User clicked on Register option
+2021-02-22 11:56:01,552 - logger_File -INFO - Register an Account test case   failed
+2021-02-22 12:02:43,469 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-22 12:02:54,503 - logger_File -INFO - Retail page is opened
+2021-02-22 12:02:54,517 - logger_File -INFO - Page title  is verified
+2021-02-22 12:02:56,666 - logger_File -INFO - User clicked on Register option
+2021-02-22 12:03:43,836 - logger_File -INFO - Register an Account test case   failed
+2021-02-22 12:10:00,016 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-22 12:10:07,951 - logger_File -INFO - Retail page is opened
+2021-02-22 12:10:07,964 - logger_File -INFO - Page title  is verified
+2021-02-22 12:10:09,724 - logger_File -INFO - User clicked on Register option
+2021-02-22 12:10:56,505 - logger_File -INFO - Register an Account test case   failed
+2021-02-22 12:15:14,556 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-22 12:15:21,570 - logger_File -INFO - Retail page is opened
+2021-02-22 12:15:21,582 - logger_File -INFO - Page title  is verified
+2021-02-22 12:15:22,955 - logger_File -INFO - User clicked on Register option
+2021-02-22 12:15:42,149 - logger_File -INFO - User filled the information form
+2021-02-22 12:26:38,598 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-22 12:26:47,421 - logger_File -INFO - Retail page is opened
+2021-02-22 12:26:47,434 - logger_File -INFO - Page title  is verified
+2021-02-22 12:26:49,303 - logger_File -INFO - User clicked on Register option
+2021-02-22 12:26:54,494 - logger_File -INFO - User filled the information form
+2021-02-22 12:34:17,442 - logger_File -INFO - Scenario Search functionality test case Started 
+2021-02-22 12:34:25,311 - logger_File -INFO - Retail page is opened
+2021-02-22 12:34:25,323 - logger_File -INFO - Page title  is verified
+2021-02-22 12:34:27,525 - logger_File -INFO - Search functionality test case   undefined
+2021-02-22 12:34:27,537 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-22 12:34:32,658 - logger_File -INFO - Retail page is opened
+2021-02-22 12:34:32,674 - logger_File -INFO - Page title  is verified
+2021-02-22 12:34:33,464 - logger_File -INFO - User Enter the Macbook Pro on the search bar
+2021-02-22 12:34:39,155 - logger_File -INFO - Test Search Functionality with multiple set of Data   undefined
+2021-02-22 12:34:39,161 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-22 12:34:46,716 - logger_File -INFO - Retail page is opened
+2021-02-22 12:34:46,725 - logger_File -INFO - Page title  is verified
+2021-02-22 12:34:47,445 - logger_File -INFO - User Enter the Macbook Pro on the search bar
+2021-02-22 12:34:49,098 - logger_File -INFO - Test Search Functionality with multiple set of Data   undefined
+2021-02-22 12:34:49,105 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-22 12:35:00,931 - logger_File -INFO - Retail page is opened
+2021-02-22 12:35:00,941 - logger_File -INFO - Page title  is verified
+2021-02-22 12:35:01,587 - logger_File -INFO - User Enter the Macbook Pro on the search bar
+2021-02-22 12:35:07,179 - logger_File -INFO - Test Search Functionality with multiple set of Data   undefined
+2021-02-22 12:35:07,184 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-22 12:35:11,936 - logger_File -INFO - Retail page is opened
+2021-02-22 12:35:11,946 - logger_File -INFO - Page title  is verified
+2021-02-22 12:35:13,922 - logger_File -INFO - Register an Account test case   undefined
+2021-02-22 12:44:42,221 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-22 12:44:50,315 - logger_File -INFO - Retail page is opened
+2021-02-22 12:44:50,337 - logger_File -INFO - Page title  is verified
+2021-02-22 12:44:51,921 - logger_File -INFO - User clicked on Register option
+2021-02-22 12:45:23,713 - logger_File -INFO - User filled the information form
+2021-02-22 12:52:45,309 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-22 12:52:53,225 - logger_File -INFO - Retail page is opened
+2021-02-22 12:52:53,240 - logger_File -INFO - Page title  is verified
+2021-02-22 12:52:54,754 - logger_File -INFO - User clicked on Register option
+2021-02-22 12:53:07,154 - logger_File -INFO - User filled the information form
+2021-02-22 22:17:45,002 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-22 22:17:53,893 - logger_File -INFO - Retail page is opened
+2021-02-22 22:17:53,904 - logger_File -INFO - Page title  is verified
+2021-02-22 22:17:55,420 - logger_File -INFO - User clicked on Register option
+2021-02-22 22:18:13,056 - logger_File -INFO - User filled the information form
+2021-02-22 22:21:42,251 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-22 22:21:50,865 - logger_File -INFO - Retail page is opened
+2021-02-22 22:21:50,878 - logger_File -INFO - Page title  is verified
+2021-02-22 22:21:52,309 - logger_File -INFO - User clicked on Register option
+2021-02-22 22:22:05,681 - logger_File -INFO - User filled the information form
+2021-02-24 11:42:15,191 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-24 11:42:24,894 - logger_File -INFO - Retail page is opened
+2021-02-24 11:42:24,915 - logger_File -INFO - Page title  is verified
+2021-02-24 11:42:26,302 - logger_File -INFO - User clicked on Register option
+2021-02-24 11:42:40,799 - logger_File -INFO - User filled the information form
+2021-02-26 23:21:23,796 - logger_File -INFO - Scenario Exexute all information from Actor Table Started 
+2021-02-26 23:21:32,954 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-26 23:21:34,123 - logger_File -INFO - Exexute all information from Actor Table   failed
+2021-02-26 23:30:46,504 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-26 23:30:50,675 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-26 23:42:11,273 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-26 23:42:15,731 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-26 23:44:17,834 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-26 23:44:22,128 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-26 23:49:01,719 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-26 23:49:06,016 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-26 23:57:56,404 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-26 23:58:00,575 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-27 00:07:30,014 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-27 00:07:34,476 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-27 00:07:34,508 - logger_File -INFO - query
+2021-02-27 00:07:35,442 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-27 00:11:29,145 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-27 00:11:32,725 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-27 00:11:32,754 - logger_File -INFO - query
+2021-02-27 00:11:33,645 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-27 00:12:59,171 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-27 00:13:02,716 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-27 00:13:03,637 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-27 00:15:22,734 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-27 00:15:26,213 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-27 00:15:27,162 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-27 00:18:57,968 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-27 00:19:02,150 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-27 00:21:41,160 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-27 00:21:49,083 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-27 00:22:39,939 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-27 00:22:47,324 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-27 00:27:09,759 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-27 00:27:13,855 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-27 00:27:34,829 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-27 00:27:38,953 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-03-01 11:32:20,503 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-03-01 11:32:29,208 - logger_File -INFO - Execute all information from Actor Table   undefined
